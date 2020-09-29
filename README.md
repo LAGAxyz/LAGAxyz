@@ -23,11 +23,8 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagaxyz"/>
-</p>
-
-<p align=center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lagaxyz&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagaxyz"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lagaxyz&show_icons=true&theme=dark"/>
 </p>
 
 <br>
@@ -43,7 +40,7 @@
     <a href="https://wa.me/51977513393" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" height="30" width="40" />
     </a>
-    <a href="https://www.youtube.com/c/uca73fp-v3ezjbztdbnklfpg" target="blank">
+    <a href="https://www.youtube.com/channel/UCa73fp-v3eZJBZtDBNklFPg" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/lagaxyz" target="blank">
