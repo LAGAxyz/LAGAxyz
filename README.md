@@ -10,16 +10,32 @@
 
 <h3 align="center">Tecnologías que uso y sigo aprendiendo</h3>
 <p align="center">
+    <a> <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="40" height="40"/> </a>
+    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="40" height="40"/> </a> -->
     <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="40" height="40"/> </a>
+    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="40" height="40"/> </a> -->
+    <a> <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="40" height="40"/> </a>
+    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="40" height="40"/> </a> -->
     <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/moodle/moodle-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
@@ -50,3 +66,4 @@
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
     </a>
 </p>
+<!-- Creado y Editado por LAGA -->
