@@ -3,6 +3,7 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lagaxyz-username&color=brightgreen&label=Visitante+Número"/>
+    <a href="https://www.paypal.com/donate?hosted_button_id=W7QQPM9ZS68MC"><img src="https://img.shields.io/badge/Donaciones-LAGAxyz-blue?style=flat"></a>
     <a href="https://www.laga.xyz/"><img src="https://img.shields.io/badge/Sitio%20Web-www.laga.xyz-brightgreen?style=flat"></a>
 </p>
 
@@ -20,7 +21,7 @@
     <a> <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="40" height="40"/> </a> -->
+    <a> <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" width="40" height="40"/> </a> -->
     <a> <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> </a>
