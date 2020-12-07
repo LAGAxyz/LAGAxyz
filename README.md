@@ -28,11 +28,11 @@
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="40" height="40"/> </a> -->
+    <a> <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> </a> -->
+    <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/moodle/moodle-original.svg" width="40" height="40"/> </a> -->
