@@ -15,24 +15,24 @@
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="40" height="40"/> </a> -->
-    <a> <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="40" height="40"/> </a>
+    <a> <img src="./Habilidades/git.svg" width="40" height="40"/> </a>
+    <a> <img src="./Habilidades/github.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="40" height="40"/> </a> -->
-    <a> <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="40" height="40"/> </a>
+    <a> <img src="./Habilidades/html5.svg" width="40" height="40"/> </a>
+    <a> <img src="./Habilidades/css3.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" width="40" height="40"/> </a> -->
-    <a> <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
+    <a> <img src="./Habilidades/sass.svg" width="40" height="40"/> </a>
+    <a> <img src="./Habilidades/javascript.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" width="40" height="40"/> </a> -->
-    <a> <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> </a>
+    <a> <img src="./Habilidades/bootstrap.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" width="40" height="40"/> </a> -->
-    <a> <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="40" height="40"/> </a>
+    <a> <img src="./Habilidades/react.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="40" height="40"/> </a> -->
-    <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> </a>
+    <a> <img src="./Habilidades/firebase.svg" width="40" height="40"/> </a>
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" width="40" height="40"/> </a> -->
     <!-- <a> <img src="https://devicon.dev/devicon.git/icons/moodle/moodle-original.svg" width="40" height="40"/> </a> -->
