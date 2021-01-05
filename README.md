@@ -52,19 +52,19 @@
 <h3 align="center">Mantengamos el contacto</h3>
 <p align="center"> 
     <a href="https://fb.com/lagaxyz" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/LAGAxyz/LAGAxyz/dbb294a08aaf47f3a6b4bd55226c57dad6a95273/Redes%20Sociales%20(iconos)/facebook.svg" height="30" width="40"/>
+        <img align="center" src="./Redes%20Sociales/facebook.svg" height="30" width="40"/>
     </a>
     <a href="https://instagram.com/lagaxyz" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/LAGAxyz/LAGAxyz/dbb294a08aaf47f3a6b4bd55226c57dad6a95273/Redes%20Sociales%20(iconos)/instagram.svg" height="30" width="40"/>
+        <img align="center" src="./Redes%20Sociales/instagram.svg" height="30" width="40"/>
     </a>
     <a href="https://wa.me/51977513393" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/LAGAxyz/LAGAxyz/dbb294a08aaf47f3a6b4bd55226c57dad6a95273/Redes%20Sociales%20(iconos)/whatsapp.svg" height="30" width="40"/>
+        <img align="center" src="./Redes%20Sociales/whatsapp.svg" height="30" width="40"/>
     </a>
     <a href="https://www.youtube.com/channel/UCa73fp-v3eZJBZtDBNklFPg" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/LAGAxyz/LAGAxyz/dbb294a08aaf47f3a6b4bd55226c57dad6a95273/Redes%20Sociales%20(iconos)/youtube.svg" height="30" width="40"/>
+        <img align="center" src="./Redes%20Sociales/youtube.svg" height="30" width="40"/>
     </a>
     <a href="https://linkedin.com/in/lagaxyz" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/LAGAxyz/LAGAxyz/dbb294a08aaf47f3a6b4bd55226c57dad6a95273/Redes%20Sociales%20(iconos)/linkedin.svg" height="30" width="40"/>
+        <img align="center" src="./Redes%20Sociales/linkedin.svg" height="30" width="40"/>
     </a>
 </p>
 
