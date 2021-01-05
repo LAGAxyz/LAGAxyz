@@ -11,32 +11,33 @@
 
 <h3 align="center">Tecnologías que uso y sigo aprendiendo</h3>
 <p align="center">
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="40" height="40"/> </a> -->
+    <a> <img src="./Habilidades/windows.svg" width="40" height="40"/> </a>
+    <a> <img src="./Habilidades/android.svg" width="40" height="40"/> </a>
+    <!-- <a> <img src="./Habilidades/linux.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/apple.svg" width="40" height="40"/> </a> -->
     <a> <img src="./Habilidades/git.svg" width="40" height="40"/> </a>
     <a> <img src="./Habilidades/github.svg" width="40" height="40"/> </a>
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/gitlab.svg" width="40" height="40"/> </a> -->
     <a> <img src="./Habilidades/html5.svg" width="40" height="40"/> </a>
     <a> <img src="./Habilidades/css3.svg" width="40" height="40"/> </a>
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/less.svg" width="40" height="40"/> </a> -->
     <a> <img src="./Habilidades/sass.svg" width="40" height="40"/> </a>
     <a> <img src="./Habilidades/javascript.svg" width="40" height="40"/> </a>
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/jquery.svg" width="40" height="40"/> </a> -->
     <a> <img src="./Habilidades/bootstrap.svg" width="40" height="40"/> </a>
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/nodejs.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/npm.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/yarn.svg" width="40" height="40"/> </a> -->
     <a> <img src="./Habilidades/react.svg" width="40" height="40"/> </a>
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/java.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/php.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/python.svg" width="40" height="40"/> </a> -->
     <a> <img src="./Habilidades/firebase.svg" width="40" height="40"/> </a>
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/moodle/moodle-original.svg" width="40" height="40"/> </a> -->
-    <!-- <a> <img src="https://devicon.dev/devicon.git/icons/wordpress/wordpress-plain.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/mysql.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/oracle.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/postgresql.svg" width="40" height="40"/> </a> -->
+    <!-- <a> <img src="./Habilidades/moodle.svg" width="40" height="40"/> </a> -->
+    <a> <img src="./Habilidades/wordpress.svg" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
