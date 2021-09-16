@@ -1,5 +1,5 @@
 <h2 align="center">LAGA<br>Luis Alberto Gutierrez Anicama</h2>
-<h3 align="center">Solo soy un informático apasionado en busca de nuevas experiencias y oportunidades para disfrutar, aprender y compartir.</h3>
+<h3 align="center">Hola. Soy LAGA, un informático apasionado en busca de nuevas experiencias y oportunidades para disfrutar, aprender y compartir.</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lagaxyz-username&color=brightgreen&label=Visitante+Número"/>
