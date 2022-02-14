@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lagaxyz-username&color=brightgreen&label=Visitante+Número"/>
     <a href="https://www.paypal.com/donate?hosted_button_id=W7QQPM9ZS68MC"><img src="https://img.shields.io/badge/Donaciones-LAGAxyz-blue?style=flat"></a>
-    <a href="https://www.laga.xyz/"><img src="https://img.shields.io/badge/Sitio%20Web-www.laga.xyz-brightgreen?style=flat"></a>
+    <a href="https://lagaxyz.github.io/"><img src="https://img.shields.io/badge/Sitio%20Web-lagaxyz.github.io-brightgreen?style=flat"></a>
 </p>
 
 <br>
