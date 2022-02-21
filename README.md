@@ -1,4 +1,4 @@
-<h2 align="center">LAGA<br>Luis Alberto Gutierrez Anicama</h2>
+﻿<h2 align="center">LAGA<br>Luis Alberto Gutierrez Anicama</h2>
 <h3 align="center">Hola. Soy LAGA, un informático apasionado en busca de nuevas experiencias y oportunidades para disfrutar, aprender y compartir.</h3>
 
 <p align="center">
@@ -52,19 +52,19 @@
 
 <h3 align="center">Mantengamos el contacto</h3>
 <p align="center"> 
-    <a href="https://www.facebook.com/gutierrezanicamaluisalberto/" target="blank" rel="nofollow">
+    <a href="https://www.facebook.com/gutierrezanicamaluisalberto/" target="_blank" rel="nofollow">
         <img align="center" src="./Redes%20Sociales/facebook.svg" height="30" width="40"/>
     </a>
-    <a href="https://instagram.com/lagaxyz" target="blank" rel="nofollow">
+    <a href="https://instagram.com/lagaxyz" target="_blank" rel="nofollow">
         <img align="center" src="./Redes%20Sociales/instagram.svg" height="30" width="40"/>
     </a>
-    <a href="https://wa.me/51977513393" target="blank" rel="nofollow">
+    <a href="https://wa.me/51977513393" target="_blank" rel="nofollow">
         <img align="center" src="./Redes%20Sociales/whatsapp.svg" height="30" width="40"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCa73fp-v3eZJBZtDBNklFPg" target="blank" rel="nofollow">
+    <a href="https://www.youtube.com/channel/UCa73fp-v3eZJBZtDBNklFPg" target="_blank" rel="nofollow">
         <img align="center" src="./Redes%20Sociales/youtube.svg" height="30" width="40"/>
     </a>
-    <a href="https://linkedin.com/in/lagaxyz" target="blank" rel="nofollow">
+    <a href="https://linkedin.com/in/lagaxyz" target="_blank" rel="nofollow">
         <img align="center" src="./Redes%20Sociales/linkedin.svg" height="30" width="40"/>
     </a>
 </p>
