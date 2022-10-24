@@ -58,7 +58,7 @@
     <a href="https://instagram.com/lagaxyz">
         <img align="center" src="./Redes%20Sociales/instagram.svg" height="30" width="40"/>
     </a>
-    <a href="https://wa.me/51977513393">
+    <a href="https://wa.me/51955146351">
         <img align="center" src="./Redes%20Sociales/whatsapp.svg" height="30" width="40"/>
     </a>
     <a href="https://www.youtube.com/channel/UCa73fp-v3eZJBZtDBNklFPg">
